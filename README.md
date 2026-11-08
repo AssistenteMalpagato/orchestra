@@ -59,7 +59,7 @@ flowchart LR
 **As a plugin** (skill + agents together):
 
 ```
-/plugin marketplace add VjAlbert/orchestra
+/plugin marketplace add AssistenteMalpagato/orchestra
 /plugin install orchestra@orchestra
 ```
 
@@ -91,4 +91,4 @@ Everything is plain text. Edit the routing table in [`skills/orchestra/SKILL.md`
 
 ## License
 
-[MIT](LICENSE) © VjAlbert
+[MIT](LICENSE) © AssistenteMalpagato
