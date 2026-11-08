@@ -1,0 +1,10 @@
+{
+  "name": "orchestra",
+  "version": "1.0.0",
+  "description": "Multi-agent orchestration for Claude Code: the main session coordinates and delegates to Haiku, Sonnet and Opus subagents. Starts only with /orchestra.",
+  "license": "MIT",
+  "author": { "name": "VjAlbert" },
+  "homepage": "https://github.com/VjAlbert/orchestra",
+  "repository": "https://github.com/VjAlbert/orchestra",
+  "keywords": ["subagents", "orchestration", "skill", "multi-agent"]
+}
